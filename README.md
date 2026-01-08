@@ -1,5 +1,5 @@
 # Lojia-404
-# 📦 Projeto Vue 3 (Vue primeiro, Bootstrap depois)
+# 📦 Projeto Vue 3 (Vue, Bootstrap)
 
 Este projeto foi criado **inicialmente como um projeto Vue 3 puro**, utilizando Vite. Após a criação do projeto base, o **Bootstrap 5 foi instalado e configurado manualmente** como framework CSS.
 
